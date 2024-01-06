@@ -1,7 +1,7 @@
 # deploy-jenkins
-first install openjdk by using below command
-apt install openjdk-11-jdk
-apt-get update
+## first install openjdk by using below command
+[apt install openjdk-11-jdk
+apt-get update]
 install jenkins using below command
 sudo wget -O /usr/share/keyrings/jenkins-keyring.asc \
   https://pkg.jenkins.io/debian/jenkins.io-2023.key
